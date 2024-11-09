@@ -1,4 +1,4 @@
-<h3 align="center">I’m a student at 42 School, learning through projects. I like solving problems and getting better at what I do.</h3>
+<h3>I’m a student at 42 School, learning through projects. I like solving problems and getting better at what I do.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seg-fault0&label=Profile%20views&color=0e75b6&style=flat" alt="seg-fault0" /> </p>
 
